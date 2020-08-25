@@ -11,6 +11,8 @@ library(dplyr)
 #Color coding
 #Viridis 440154, 482878, 3E4A89, 31688E, 26828E, 1F9E89, 35B779, 6DCD59, B4DE2C, FDE725
 
+#VAMOS A COLOCAR ESTO POR AQUI
+
 #Theme
 Thm <-   theme(
     panel.grid.major = element_line (colour = "white", size = 0.3),
